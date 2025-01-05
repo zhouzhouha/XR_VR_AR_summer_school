@@ -4,8 +4,8 @@
 
 ## 2025
 Name | Venue | Date | Credits :droplet:
-------|---|--|-|-|
-[Spring School on Social VR]([https://www.dis.cwi.nl/spring-school/]) | Amsterdam, the Netherlands | 7-10, April | 5CETS 
+------|--|--|--|--|
+[Spring School on Social VR]([https://www.dis.cwi.nl/spring-school/]) | Amsterdam, the Netherlands | 7-10, April | 5CETS  
 [AIVR](https://xrsalento.it/xrsalento2024/xrai-summer-school-2024/index.html) | Matera, Italy | Unknown | Unknown | Unknown
 
 ## FAQs
